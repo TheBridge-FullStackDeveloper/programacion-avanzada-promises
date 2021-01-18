@@ -31,7 +31,7 @@ dispones de dos funciones:
   }
   ```
 
-  <p style="background-color: #FFFF00; color: black; padding: 10px">Para poder usar esta función, debes declarar un <span style="color: red">api_key</span> en <span style="color: red">/JS/callback.js</span>, para obtenerlo visita: <a href="https://home.openweathermap.org/api_keys">Obtén un api key</a></p>
+  <p style="background-color: #FFFF00; color: black; padding: 10px">:bulb: Para poder usar esta función, debes declarar un <span style="color: red">api_key</span> en <span style="color: red">/JS/callback.js</span>, para obtenerlo visita: <a href="https://home.openweathermap.org/api_keys">Obtén un api key</a></p>
 
 * La segunda función resuelve la asincronía a través de una promesa: un objeto que provee de los métodos `.then` y `.catch`
 
@@ -45,7 +45,7 @@ dispones de dos funciones:
   }
   ```
 
-  <p style="background-color: #FFFF00; color: black; padding: 10px">Para poder usar esta función, debes declarar un <span style="color: red">api_key</span> en <span style="color: red">/JS/promise.js</span>, para obtenerlo visita: <a href="https://quizapi.io/clientarea/settings/token">Obtén un api key</a></p>
+  <p style="background-color: #FFFF00; color: black; padding: 10px">:bulb: Para poder usar esta función, debes declarar un <span style="color: red">api_key</span> en <span style="color: red">/JS/promise.js</span>, para obtenerlo visita: <a href="https://quizapi.io/clientarea/settings/token">Obtén un api key</a></p>
 
 ## Ejercicios
 
